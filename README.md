@@ -1,2 +1,23 @@
-# DevToolbox
-DevToolbox – Free online dev tools! Format JSON, encode/decode Base64, and more. No installs, no backend. Fully browser-based, open-source, and easy to deploy on GitHub Pages or Vercel.
+# 🧰 DevToolbox
+
+DevToolbox is a free collection of developer utilities you can use instantly online — no login, no backend, no ads.
+
+## 🚀 Tools Included
+- Base64 Encoder / Decoder  
+- JSON Formatter  
+- Text to Hex Converter  
+- Password Generator  
+- Hash Generator  
+
+## 🧱 Tech Stack
+- HTML  
+- Tailwind CSS  
+- JavaScript  
+
+## 🌐 Deployment
+1. Fork this repo  
+2. Go to GitHub → Settings → Pages  
+3. Deploy from `main` branch → `/ (root)` folder  
+4. Open your free live site 🎉  
+
+
